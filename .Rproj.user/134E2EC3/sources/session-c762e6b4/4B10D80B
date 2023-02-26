@@ -3,7 +3,7 @@
     "path": "C:/Users/User/Documents/heart_diseases/Heart_Disease_Research/Variable_1_descriptives.R",
     "project_path": "Variable_1_descriptives.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2504796002",
     "contents": "",
     "dirty": false,
     "created": 1677422555606.0,
@@ -12,14 +12,16 @@
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "1,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1677422596,
+    "lastKnownWriteTime": 1677422820,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1677422596520,
+    "last_content_update": 1677422820047,
     "read_only": false,
     "read_only_alternatives": []
 }
