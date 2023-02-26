@@ -1,25 +1,25 @@
 {
-    "id": "D75555D9",
-    "path": "~/heart_diseases/Heart_Disease_Research/Summary1.R",
-    "project_path": "Summary1.R",
+    "id": "4B10D80B",
+    "path": "C:/Users/User/Documents/heart_diseases/Heart_Disease_Research/Variable_1_descriptives.R",
+    "project_path": "Variable_1_descriptives.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1677421997350.0,
+    "created": 1677422555606.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1677422014,
+    "lastKnownWriteTime": 1677422596,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1677422014100,
+    "last_content_update": 1677422596520,
     "read_only": false,
     "read_only_alternatives": []
 }
