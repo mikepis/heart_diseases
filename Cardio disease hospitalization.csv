@@ -1,0 +1,57 @@
+state_fips,display_name,Value
+1,Alabama,62
+2,"""Alaska, (AK)""",42.4
+4,"""Arizona, (AZ)""",48.8
+5,"""Arkansas, (AR)""",61.5
+6,"""California, (CA)""",42.8
+8,"""Colorado, (CO)""",35.8
+9,"""Connecticut, (CT)""",52
+10,"""Delaware, (DE)""",52.5
+11,"""District of Columbia, (DC)""",48.8
+12,"""Florida, (FL)""",57.5
+13,"""Georgia, (GA)""",55.7
+15,"""Hawaii, (HI)""",32.8
+16,"""Idaho, (ID)""",31.8
+17,"""Illinois, (IL)""",58.7
+18,"""Indiana, (IN)""",58.1
+19,"""Iowa, (IA)""",43
+20,"""Kansas, (KS)""",47.2
+21,"""Kentucky, (KY)""",70.6
+22,"""Louisiana, (LA)""",63.2
+23,"""Maine, (ME)""",49.5
+24,"""Maryland, (MD)""",56.9
+25,"""Massachusetts, (MA)""",55
+26,"""Michigan, (MI)""",65.3
+27,"""Minnesota, (MN)""",43.8
+28,"""Mississippi, (MS)""",63.2
+29,"""Missouri, (MO)""",58.8
+30,"""Montana, (MT)""",32.3
+31,"""Nebraska, (NE)""",42.8
+32,"""Nevada, (NV)""",45
+33,"""New Hampshire, (NH)""",44.1
+34,"""New Jersey, (NJ)""",64.7
+35,"""New Mexico, (NM)""",39
+36,"""New York, (NY)""",57.4
+37,"""North Carolina, (NC)""",56.5
+38,"""North Dakota, (ND)""",38.4
+39,"""Ohio, (OH)""",63.5
+40,"""Oklahoma, (OK)""",59.4
+41,"""Oregon, (OR)""",35.6
+42,"""Pennsylvania, (PA)""",62.1
+44,"""Rhode Island, (RI)""",50.2
+45,"""South Carolina, (SC)""",55.6
+46,"""South Dakota, (SD)""",42.1
+47,"""Tennessee, (TN)""",61.9
+48,"""Texas, (TX)""",51.9
+49,"""Utah, (UT)""",34.2
+50,"""Vermont, (VT)""",36.9
+51,"""Virginia, (VA)""",51.3
+53,"""Washington, (WA)""",38.9
+54,"""West Virginia, (WV)""",67.4
+55,"""Wisconsin, (WI)""",45.8
+56,"""Wyoming, (WY)""",38.8
+60,"""American Samoa, (AS)""",-1
+66,"""Guam, (GU)""",-1
+69,"""Northern Mariana Islands, (MP)""",-1
+72,"""Puerto Rico, (PR)""",34.4
+78,"""Virgin Islands of the U.S.",28.2
