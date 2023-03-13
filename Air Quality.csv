@@ -1,0 +1,52 @@
+StateFIPS,State,Year,Value,Data Comment,Pollutant
+1,Alabama,2011,0.49,,Pollutant: Benzene
+2,Alaska,2011,0.68,,Pollutant: Benzene
+4,Arizona,2011,0.43,,Pollutant: Benzene
+5,Arkansas,2011,0.46,,Pollutant: Benzene
+6,California,2011,0.64,,Pollutant: Benzene
+8,Colorado,2011,0.87,,Pollutant: Benzene
+9,Connecticut,2011,0.86,,Pollutant: Benzene
+10,Delaware,2011,0.69,,Pollutant: Benzene
+11,District of Columbia,2011,1.2,,Pollutant: Benzene
+12,Florida,2011,0.53,,Pollutant: Benzene
+13,Georgia,2011,0.55,,Pollutant: Benzene
+15,Hawaii,2011,0.42,,Pollutant: Benzene
+16,Idaho,2011,0.55,,Pollutant: Benzene
+17,Illinois,2011,0.66,,Pollutant: Benzene
+18,Indiana,2011,0.66,,Pollutant: Benzene
+19,Iowa,2011,0.55,,Pollutant: Benzene
+20,Kansas,2011,0.56,,Pollutant: Benzene
+21,Kentucky,2011,0.56,,Pollutant: Benzene
+22,Louisiana,2011,0.52,,Pollutant: Benzene
+23,Maine,2011,0.51,,Pollutant: Benzene
+24,Maryland,2011,0.8,,Pollutant: Benzene
+25,Massachusetts,2011,0.81,,Pollutant: Benzene
+26,Michigan,2011,0.67,,Pollutant: Benzene
+27,Minnesota,2011,0.72,,Pollutant: Benzene
+28,Mississippi,2011,0.42,,Pollutant: Benzene
+29,Missouri,2011,0.54,,Pollutant: Benzene
+30,Montana,2011,0.39,,Pollutant: Benzene
+31,Nebraska,2011,0.55,,Pollutant: Benzene
+32,Nevada,2011,0.65,,Pollutant: Benzene
+33,New Hampshire,2011,0.62,,Pollutant: Benzene
+34,New Jersey,2011,0.91,,Pollutant: Benzene
+35,New Mexico,2011,0.45,,Pollutant: Benzene
+36,New York,2011,1.09,,Pollutant: Benzene
+37,North Carolina,2011,0.5,,Pollutant: Benzene
+38,North Dakota,2011,0.59,,Pollutant: Benzene
+39,Ohio,2011,0.8,,Pollutant: Benzene
+40,Oklahoma,2011,0.55,,Pollutant: Benzene
+41,Oregon,2011,0.86,,Pollutant: Benzene
+42,Pennsylvania,2011,0.86,,Pollutant: Benzene
+44,Rhode Island,2011,0.78,,Pollutant: Benzene
+45,South Carolina,2011,0.46,,Pollutant: Benzene
+46,South Dakota,2011,0.4,,Pollutant: Benzene
+47,Tennessee,2011,0.44,,Pollutant: Benzene
+48,Texas,2011,0.49,,Pollutant: Benzene
+49,Utah,2011,0.57,,Pollutant: Benzene
+50,Vermont,2011,0.55,,Pollutant: Benzene
+51,Virginia,2011,0.63,,Pollutant: Benzene
+53,Washington,2011,1.01,,Pollutant: Benzene
+54,West Virginia,2011,0.52,,Pollutant: Benzene
+55,Wisconsin,2011,0.6,,Pollutant: Benzene
+56,Wyoming,2011,0.37,,Pollutant: Benzene
